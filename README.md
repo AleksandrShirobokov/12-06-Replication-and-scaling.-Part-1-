@@ -34,3 +34,7 @@
 ## Задание 3
 ### Выполните конфигурацию master-master репликации. Произведите проверку.
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
+ - Настраиваю слэйв на второй ноде:
+![Снимок экрана (90)](https://github.com/AleksandrShirobokov/12-06-Replication-and-scaling.-Part-1-/assets/69298696/ccb99cbd-a534-4a94-9a04-2f17a3b3d73f)
+ - Проверка работы:
+![Снимок экрана (91)](https://github.com/AleksandrShirobokov/12-06-Replication-and-scaling.-Part-1-/assets/69298696/77a6e573-01bb-4330-bd1d-a0bde35d6fe3)
